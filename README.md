@@ -1,4 +1,4 @@
-# 🗄 DBUI: Database CLI
+# 🗄 DBUI: Database CLIIII
 
 **dbui** is database CLI for MySQL and PostgreSQL. It is the terminal user interface application built
 with the [tview](https://github.com/rivo/tview).
